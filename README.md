@@ -3,7 +3,7 @@
 I’ll choose **Question 1: How to determine whether the current algorithm is producing meaningful, trustworthy insights**, using a **customer behavior dataset for an socal media platform (youtube like app)**(watch time , preference ,category of video .).\
 Assume the pipeline generates human-readable insights like:   "  Users aged over 50 spend around 70% of their time watching spiritual content   "or  _“Users who view business  product videos are 50% more likely to  click on product Ad ”_
 
-## step 1 : manually Validating of  data reality
+## step 1 : manually Validating of  data reliability
 
 First, I would verify whether each generated insight is **factually supported by the orignal data**.  or **statistical relationships actually exist or  not**
 
