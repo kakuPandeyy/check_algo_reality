@@ -8,6 +8,7 @@ Assume the pipeline generates human-readable insights like:   "  Users aged over
 First, I would verify whether each generated insight is **factually supported by the orignal data**.  or **statistical relationships actually exist or  not**
 
 - **manually sampling**:  first take  sufficient sample size  of  testing insight's variables( age , category of video ) do calculations and check against  insight data
+
 - **test stability over  time**:  i would  check  is  insight **stays the same over time**. If the algorithm says something today (for example, _“_ Users aged over 50 spend around 70% of their time watching spiritual content”\_), it should say **almost the same thing next week or next month** when using new but similar data.
 
 ## step 2 : Check bias, and assumptions or cause  effect's
